@@ -1,0 +1,52 @@
+<html>
+<head>
+<style>
+h1 {text-align: center;}
+p {text-align: center;}
+div {text-align: center;}
+image {align-items: center;}
+* {
+  box-sizing: border-box;
+}
+
+.column {
+  float: left;
+  width: 33.33%;
+  padding: 5px;
+}
+
+/* Clearfix (clear floats) */
+.row::after {
+  content: "";
+  clear: both;
+  display: table;
+}
+</style>
+</head>
+<body>
+  <p>
+    <img src = "logo.jpg" alt ="test" width = "500" height="400" >
+    </p>
+  <h1>Choose your Restaurant</h1>
+    <!-- <form> 
+        <label for="res">Restaurant:</label>
+        <input id="res" name="res"><br>
+        <input type="button" value="test">
+    </form> -->
+    <div class="row">
+        <div class="column">
+          <img class= "center" src="grab.jpg" alt="Snow" style="width:180%">
+        </div>
+        <div class="column">
+          <img src="food panda.jpg" alt="Forest" style="width:150%">
+        </div>
+        <div class="column">
+          <img src="mac.jpg" alt="Mountains" style="width:150%">
+        </div>
+      </div>
+   
+  
+     
+    
+  </body>
+</html>
