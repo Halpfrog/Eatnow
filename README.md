@@ -49,7 +49,7 @@ Poster link: https://drive.google.com/file/d/1X4jX5AFzbi1WddDCjFDgb9DUUd9Ski_u/v
 
 Proposal Video link: https://drive.google.com/file/d/183N4AXq_sP9BLhwZRFSWX2TohwDHvM-6/view?usp=sharing 
 
-Demo Video link: 
+Demo Video link: https://drive.google.com/file/d/1iaeWAsgxNPhzju_tblBrj4inLd8KFesF/view?usp=sharing
 
 
 
