@@ -39,13 +39,11 @@ Project Log:
 
 
 
-
-
-
 Total Hours |Orbitee 1|Orbitee 2|
 |-----------|---------|---------|
 52|26|26
 
+![programme](./Images/program_flow.png)
 
 Poster link: https://drive.google.com/file/d/1X4jX5AFzbi1WddDCjFDgb9DUUd9Ski_u/view?usp=sharing
 
