@@ -35,13 +35,17 @@ Project Log:
 |5   | Self study              |24/05/2021 |       2       |      2        |Learning how to create a website capable of searching through a delivery catalogue |  
 |6   | Programming at home     |25/05/2021 |       4       |      4        |Creation of a basic HTML website prototype  | 
 |7   |Team meeting             |27/05/2021 |       2       |      2        |Worked on Milestones   |
-|7   |Team meeting             |27/05/2021 |       4       |      4        |Worked on Milestones   | 
+|8   |Team meeting             |27/05/2021 |       4       |      4        |Worked on Milestones   | 
+|9   |learning to use a scraper|05/06/2021 |       8       |      8        |Tried to adapt price scrapers to run on foodpanda   |
+|10  |Attempted to use a scraper using scrapy|09/06/2021 |       4       |      4        |First attempt at price scrapping from foodpanda   | 
+|11  |Team meeting             |14/06/2021 |       2       |      2        |Address growing issues with using price scrappers   | 
+|12  |USe grab API to get delivery quotes|16/06/2021 |       6       |      6        |Tried to gain access to the grab api but did not receive access as we were not companies   | 
 
 
 
 Total Hours |Orbitee 1|Orbitee 2|
 |-----------|---------|---------|
-52|26|26
+12|56|56
 
 ![programme](./Images/program_flow.png)
 
