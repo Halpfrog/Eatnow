@@ -7,6 +7,7 @@ Many of us have simply gone with the first option we find simply to avoid the ha
 Aim 
 
 We hope to make the comparison between ordering services easier with the use of a simple website that will link you to the cheapest delivery option. 
+
 Scope
 
 A website capable of displaying the delivery prices of each food delivery option and directing you to the application with the cheapest delivery price will be the main deliverable. 
