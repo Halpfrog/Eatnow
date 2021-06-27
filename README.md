@@ -45,7 +45,7 @@ Project Log:
 
 Total Hours |Orbitee 1|Orbitee 2|
 |-----------|---------|---------|
-12|56|56
+112|56|56
 
 ![programme](./Images/program_flow.png)
 
