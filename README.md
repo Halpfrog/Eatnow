@@ -1,8 +1,8 @@
-Milestone 2 Orbital 2021
+Milestone 3 Orbital 2021
 
 Proposed Level of Achievement: 
 
-Gemini 
+Vostok
 
 Motivation 
 
@@ -52,6 +52,7 @@ We are working towards perhaps reworking the web app to provide users with the l
 
 Poster link: https://drive.google.com/file/d/1X4jX5AFzbi1WddDCjFDgb9DUUd9Ski_u/view?usp=sharing
 Video link: https://drive.google.com/file/d/1iaeWAsgxNPhzju_tblBrj4inLd8KFesF/view?usp=sharing
+Link to web app: https://orbital2021-315513.web.app/
 
 Tech Stack
 1. Grab API
@@ -59,5 +60,6 @@ Tech Stack
 3. Python
 4. Foodpanda API
 5. Telegram API
+6. Google Places API
  
 
